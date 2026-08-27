@@ -1,0 +1,435 @@
+<MoxiePlaylist Version="7.10.8601.1">
+  <Properties>
+    <CreationDate>4/3/2026 7:57:19 PM</CreationDate>
+    <LastModifiedDate>8/26/2026 7:32:45 PM</LastModifiedDate>
+    <ModifiedBy>eic_admin</ModifiedBy>
+  </Properties>
+  <Playlist name="Root Playlist">
+    <datatriggersource></datatriggersource>
+    <datatriggervalue></datatriggervalue>
+    <itemtype>Playlist</itemtype>
+    <playlisttype>TimeBasedPlaylist</playlisttype>
+    <playbackmode>Sequential</playbackmode>
+    <playbackcycle>PlayAll</playbackcycle>
+    <playbackitemcount>1</playbackitemcount>
+    <interruptmode>Immediately</interruptmode>
+    <logging>False</logging>
+    <syncing>False</syncing>
+    <lookaheaditemcount>0</lookaheaditemcount>
+    <playbackdurationoverride>False</playbackdurationoverride>
+    <playbackweightenabled>False</playbackweightenabled>
+    <pdfpageinterval>00:00:10</pdfpageinterval>
+    <allowrootmods>False</allowrootmods>
+    <rulesmode>UseParentDefault</rulesmode>
+    <defaultduration>00:00:10</defaultduration>
+    <inactivitytimeout>00:01:00</inactivitytimeout>
+    <media name="VIDEO_EIC_Intro">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_EIC_Intro</dataserveritem>
+      <dataserveritemguid>cb4cb073-ed32-4bf3-ba4e-86088acf6126</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="D002_EN_4_STAGES_2MIN">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|D002_EN_4_STAGES_2MIN</dataserveritem>
+      <dataserveritemguid>6e4a9556-959f-40b7-b41e-dd5d9d2d9e1f</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_AgricultureWater">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_AgricultureWater</dataserveritem>
+      <dataserveritemguid>705d2307-5b1d-4240-aa0e-1db931d28c84</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_Reservoirs">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_Reservoirs</dataserveritem>
+      <dataserveritemguid>9731fe37-98c3-4004-8444-5177e28b88e2</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_WaterResources">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_WaterResources</dataserveritem>
+      <dataserveritemguid>71c644ab-6bbb-437b-8f3e-9d9ed1958900</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_swotRiverVolume_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_swotRiverVolume_A</dataserveritem>
+      <dataserveritemguid>bba5cea1-0617-4d1f-9adb-bc9e87d83262</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_OceanFlowsBlue_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_OceanFlowsBlue_A</dataserveritem>
+      <dataserveritemguid>63a4972e-ba58-4ee7-9371-8a4b717c8754</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="D007_AQ_3_STAGES_2MIN">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|D007_AQ_3_STAGES_2MIN</dataserveritem>
+      <dataserveritemguid>2b6e0f53-68b9-478a-9b1e-bb332adc9e1a</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_AirQuality_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_AirQuality_A</dataserveritem>
+      <dataserveritemguid>1aa9510f-af10-472e-8fab-84780115d59d</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_Fires">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_Fires</dataserveritem>
+      <dataserveritemguid>be4366e1-dbfd-49c2-8582-e6910a5432ea</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="D009_FIRES_4_STAGES">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|D009_FIRES_4_STAGES</dataserveritem>
+      <dataserveritemguid>bbc23a4f-b080-430d-b8f2-aee68643178b</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_LA_Fires_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_LA_Fires_A</dataserveritem>
+      <dataserveritemguid>3ff3fa36-33e8-448f-8c5c-3111f257a5f1</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_ISS_atNight_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_ISS_atNight_A</dataserveritem>
+      <dataserveritemguid>3ec6c795-60ae-4a90-972b-c551bf44d2bf</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_SeaLevelRise">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_SeaLevelRise</dataserveritem>
+      <dataserveritemguid>5e1797b0-59a3-4b3c-888d-ff4dce76adbb</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="D003_SLC_x_STAGES_xMIN">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|D003_SLC_x_STAGES_xMIN</dataserveritem>
+      <dataserveritemguid>146c2480-70d1-43ae-ac7d-6226ad38e81f</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_OceanFlowsColor_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_OceanFlowsColor_A</dataserveritem>
+      <dataserveritemguid>7c6c3cfe-95e7-4099-8f9b-52d7d9fc26e1</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_Hurricanes">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_Hurricanes</dataserveritem>
+      <dataserveritemguid>9828fe62-fdb2-4572-8fda-f2e9761568b7</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="D008_DIS_3STAGES">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|D008_DIS_3STAGES</dataserveritem>
+      <dataserveritemguid>d38fbac2-7188-4204-9274-f81905382488</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_AtmosphericRivers_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_AtmosphericRivers_A</dataserveritem>
+      <dataserveritemguid>0bf8373f-68c5-4445-bcf8-6e6fc7390143</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_BioScapes">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_BioScapes</dataserveritem>
+      <dataserveritemguid>8ff2ba9a-f96b-4e16-b296-5a58d3be080d</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_GEDI_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_GEDI_A</dataserveritem>
+      <dataserveritemguid>5ea5817a-2524-41e4-b529-8469cc78c856</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_migration">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_migration</dataserveritem>
+      <dataserveritemguid>3fe423ad-a0a4-4010-8dd7-6f56f31dd58a</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIDEO_GEMx">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIDEO_GEMx</dataserveritem>
+      <dataserveritemguid>02726f6b-7f14-49dc-9d97-ecdc07bfa33d</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+    <media name="VIS_blackMarbleLights_A">
+      <dataserveritem>||Data|Workspaces|Workspace KSC|Draft|Layouts|VIS_blackMarbleLights_A</dataserveritem>
+      <dataserveritemguid>ed3ed3ce-5455-40f0-b958-621d739c2353</dataserveritemguid>
+      <type>TimeBasedPlaylist</type>
+      <datatriggervalue></datatriggervalue>
+      <durationtype>PlayToEnd</durationtype>
+      <duration>00:00:10</duration>
+      <itemtype>Layout</itemtype>
+      <audiobalance>0</audiobalance>
+      <audiovolume>50</audiovolume>
+      <audiomute>False</audiomute>
+      <mediaplayer>0</mediaplayer>
+      <mediarender>0</mediarender>
+      <pdfpageinterval>00:00:10</pdfpageinterval>
+      <pdfdisplaypages>All</pdfdisplaypages>
+      <rulesmode>UseParentDefault</rulesmode>
+    </media>
+  </Playlist>
+</MoxiePlaylist>

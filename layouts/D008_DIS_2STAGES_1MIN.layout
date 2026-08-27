@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Layout Version="7.10.8601.1">
+  <Properties>
+    <CreationDate>8/27/2024 12:30:50 PM</CreationDate>
+    <LastModifiedDate>8/26/2026 4:39:54 PM</LastModifiedDate>
+    <ModifiedBy>eic_admin</ModifiedBy>
+    <editor showgrid="False" spacing="100" showsub="False" gridcolor="#D7D7D7D7" snapping="False" showruler="False" showguides="False" guidelock="False" guidecolor="#FF66FFFF" />
+    <TimelineSortDirection>Descending</TimelineSortDirection>
+    <TimelineSort>ZOrder</TimelineSort>
+  </Properties>
+  <Resources />
+  <Content>
+    <ContainerZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#FF000000" BeginTime="00:00:00" Duration="00:01:00" Name="Canvas" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" ContainerBackground="#00FFFFFF">
+      <Children>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="D008_stage23_Right_1" Left="5895" Top="42" Width="1719" Height="1744" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 91a61ed1-c000-42ea-8793-d2ad4eea3190}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="D008_stage2_Main_4_1800x900p" Left="3865" Top="1140" Width="1843" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1846" ViewportHeight="960" BrowserLeft="0" BrowserTop="0" BrowserWidth="1846" BrowserHeight="960" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference ee07623d-9cf7-4d1d-98c3-0413a60b92f1}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="D008_stage2_Main_3_2400x1200px" Left="1946" Top="1130" Width="1850" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1609" ViewportHeight="813" BrowserLeft="0" BrowserTop="0" BrowserWidth="1609" BrowserHeight="813" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference f3e857c5-e8ab-4842-974a-b82426b2fdcd}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="D008_stage2_Main_2" Left="3859" Top="125" Width="1490" Height="970" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 08d40f93-c545-429d-a437-e970a0c34c67}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="D008_stage2_Main_1" Left="1954" Top="125" Width="1800" Height="900" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="None" ViewportLeft="0" ViewportTop="0" ViewportWidth="1800" ViewportHeight="900" BrowserLeft="0" BrowserTop="0" BrowserWidth="1800" BrowserHeight="900" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 7397d039-f393-4adb-a5c9-bbbd3dc4d4ca}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30" Name="D008_stage1_maincenter_4" Left="3831" Top="1172" Width="1878" Height="855" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 94ec9d79-83b1-47b7-a6bd-e8207f3f0aae}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#FF000000" BeginTime="00:00:00" Duration="00:00:30" Name="D008_stage1_Main_3_2400x1200px" Left="1955" Top="1144" Width="1820" Height="894" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="43" ViewportTop="51" ViewportWidth="1800" ViewportHeight="900" BrowserLeft="0" BrowserTop="0" BrowserWidth="1800" BrowserHeight="900" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 635282e1-d0a2-411a-ba36-61402c6a606c}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30" Name="D008_stage1_Main_2_2400x1200px" Left="3867" Top="132" Width="1835" Height="925" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1814" ViewportHeight="898" BrowserLeft="0" BrowserTop="0" BrowserWidth="1814" BrowserHeight="898" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 4441d542-5f71-4ef4-b802-a0764ecb6ffc}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30" Name="D008_stage1_Main_1_2400x1200px" Left="1953" Top="116" Width="1832" Height="944" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1798" ViewportHeight="884" BrowserLeft="0" BrowserTop="0" BrowserWidth="1798" BrowserHeight="890" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 814138bc-1dd4-4ef7-b725-f0a339b38987}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:00" Name="D008_stage14_Left_1" Left="108" Top="946" Width="1592" Height="801" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 250a1308-5fae-4266-a236-5e2287f392a1}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30" Name="Mask_stage2" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference e6f54819-2cee-42d9-85fa-ea1b0a57339b}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30" Name="Mask_stage1" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 02b23dfb-8b4c-4f4c-8bbf-9d6f94ec5b3b}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="True" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:00" Name="Date-Time - Copy" Left="0" Top="0" Width="1918" Height="250" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1705" ViewportHeight="230" BrowserLeft="0" BrowserTop="0" BrowserWidth="1705" BrowserHeight="230" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference d1f16b15-d72e-4edb-8655-77ec04fe62e1}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+      </Children>
+    </ContainerZone>
+  </Content>
+  <References>
+    <Include Key="{250a1308-5fae-4266-a236-5e2287f392a1}" Source="Data Server">
+      <BackboneDataPointer Guid="d7b26c95-98d1-4f69-a90e-5e78c9a8729a" Name="D000_Common_stage0_any_0_Svs5057SeaSurfaceTemperatureHurricane_en_4096x2048.mp4" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D000_CommonContent" Type="Item" />
+    </Include>
+    <Include Key="{635282e1-d0a2-411a-ba36-61402c6a606c}" Source="Internet Source">
+      <InternetPointer Name="https://earthquake.usgs.gov/earthquakes/map/?extent=-75.84517,-468.28125&amp;extent=83.1949,166.28906&amp;baseLayer=street&amp;list=false" Path="https://earthquake.usgs.gov/earthquakes/map/?extent=-75.84517,-468.28125&amp;extent=83.1949,166.28906&amp;baseLayer=street&amp;list=false" Type="Item" />
+    </Include>
+    <Include Key="{814138bc-1dd4-4ef7-b725-f0a339b38987}" Source="Internet Source">
+      <InternetPointer Name="https://firms.modaps.eosdis.nasa.gov/map2/#t:tsd-daily;d:2025-09-19..2025-09-25;l:fires_all,countries,volcanoes,earth;v:kiosk;@0.0,0.0,3.0z" Path="https://firms.modaps.eosdis.nasa.gov/map2/#t:tsd-daily;d:2025-09-19..2025-09-25;l:fires_all,countries,volcanoes,earth;v:kiosk;@0.0,0.0,3.0z" Type="Item" />
+    </Include>
+    <Include Key="{08d40f93-c545-429d-a437-e970a0c34c67}" Source="Data Server">
+      <BackboneDataPointer Guid="8815754f-b1ed-45b5-8fd1-425fb36a951a" Name="D008_DIS_stage2_maincenter_2_NoaaWeatherService_en_800x500.png" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D008_DIS" Type="Item" />
+    </Include>
+    <Include Key="{f3e857c5-e8ab-4842-974a-b82426b2fdcd}" Source="Internet Source">
+      <InternetPointer Name="https://firms.modaps.eosdis.nasa.gov/usfs/map2/#m:experimental;d:24hrs,24hrs;l:outlooks_forecast,countries,noaa20_snow=pal-blue_5,earth;v:kiosk;@-100.0,40.0,4.0z" Path="https://firms.modaps.eosdis.nasa.gov/usfs/map2/#m:experimental;d:24hrs,24hrs;l:outlooks_forecast,countries,noaa20_snow=pal-blue_5,earth;v:kiosk;@-100.0,40.0,4.0z" Type="Item" />
+    </Include>
+    <Include Key="{94ec9d79-83b1-47b7-a6bd-e8207f3f0aae}" Source="Data Server">
+      <BackboneDataPointer Guid="68eda90c-b0cc-4baf-8705-3aee93903e39" Name="D008_DIS_stage1_maincenter_4_Svs5584Landslides_en_2048x1024.png" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D008_DIS" Type="Item" />
+    </Include>
+    <Include Key="{91a61ed1-c000-42ea-8793-d2ad4eea3190}" Source="Data Server">
+      <BackboneDataPointer Guid="87b214bc-4b34-4a6f-ae55-42a7f93b8b3e" Name="D008_DIS_stage2_mainright_1_HoustonPowerSVSXXXX_en_1440x960.mp4" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D008_DIS" Type="Item" />
+    </Include>
+    <Include Key="{4441d542-5f71-4ef4-b802-a0764ecb6ffc}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/disasters-dashboard/gdacs/index.html" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/disasters-dashboard/gdacs/index.html" Type="Item" />
+    </Include>
+    <Include Key="{ee07623d-9cf7-4d1d-98c3-0413a60b92f1}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/disasters-dashboard/water/index.html" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/disasters-dashboard/water/index.html" Type="Item" />
+    </Include>
+    <Include Key="{d1f16b15-d72e-4edb-8655-77ec04fe62e1}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/eic-header/index.html?stageDurations=[30,30]" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/eic-header/index.html?stageDurations=[30,30]" Type="Item" />
+    </Include>
+    <Include Key="{7397d039-f393-4adb-a5c9-bbbd3dc4d4ca}" Source="Internet Source">
+      <InternetPointer Name="https://firms2.modaps.eosdis.nasa.gov/usfs/map2/#d:24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,volcanoes,earth;v:kiosk;@-100.0,40.0,4.0z" Path="https://firms2.modaps.eosdis.nasa.gov/usfs/map2/#d:24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,volcanoes,earth;v:kiosk;@-100.0,40.0,4.0z" Type="Item" />
+    </Include>
+    <Include Key="{e6f54819-2cee-42d9-85fa-ea1b0a57339b}" Source="Data Server">
+      <BackboneDataPointer Guid="5c212674-b745-40f5-a337-bb8ae77124ff" Name="D008_DIS_stage2_mask_0_UsDisasterMonitoring_en_7680x2160.png" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D008_DIS" Type="Item" />
+    </Include>
+    <Include Key="{02b23dfb-8b4c-4f4c-8bbf-9d6f94ec5b3b}" Source="Data Server">
+      <BackboneDataPointer Guid="d82b1c8c-abec-43a0-80ed-4744b501ad7e" Name="D008_DIS_stage1_mask_0_GlobalDisasterMonitoring_en_7680x2160.png" Path="||Data|Workspaces|Workspace KSC|Draft|Files|Dashboards|D008_DIS" Type="Item" />
+    </Include>
+  </References>
+</Layout>

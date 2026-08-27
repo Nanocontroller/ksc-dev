@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Layout Version="7.10.8601.1">
+  <Properties>
+    <CreationDate>8/31/2023 10:19:21 AM</CreationDate>
+    <LastModifiedDate>8/26/2026 3:02:05 PM</LastModifiedDate>
+    <ModifiedBy>eic_admin</ModifiedBy>
+    <editor showgrid="False" spacing="100" showsub="False" gridcolor="#D7D7D7D7" snapping="False" showruler="False" showguides="False" guidelock="False" guidecolor="#FF66FFFF" />
+    <TimelineSortDirection>Descending</TimelineSortDirection>
+    <TimelineSort>ZOrder</TimelineSort>
+  </Properties>
+  <Resources />
+  <Content>
+    <ContainerZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#FF000000" BeginTime="00:00:00" Duration="00:02:00" Name="Canvas" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" ContainerBackground="#00FFFFFF">
+      <Children>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:01:00" Name="MC_S3-4" Left="2086" Top="132" Width="3192" Height="1685" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 16239c31-8198-46ce-8965-a9d669ac2c60}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:30" Duration="00:00:30" Name="ML_S4" Left="51" Top="1004" Width="1920" Height="1080" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 4ba7527a-aaf9-43e7-97af-ea5742c1408c}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:00:30" Name="ML_S3" Left="51" Top="1004" Width="1920" Height="1080" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference cbaa41be-50c2-4a88-80dc-5096026efbd3}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:00:30.0230000" Name="MC_S3" Left="2165" Top="130" Width="3050" Height="1690" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference ced363a9-95fa-4051-9920-3319d9f0bb71}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30.0230000" Name="MC_S2" Left="2140" Top="160" Width="3100" Height="1743" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 6a8c104e-80c1-4610-86ec-225503ce4d88}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:30" Duration="00:00:30.0230000" Name="ML_S2" Left="51" Top="1004" Width="1920" Height="1080" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 427c9e6e-ae6e-4476-bdcb-70ecdba5e97c}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30.0230000" Name="MC_S1" Left="2165" Top="130" Width="3050" Height="1690" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 0a655ec9-68ff-4a6b-a809-43dc46137dd6}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:00:30.0230000" Name="ML_S1" Left="51" Top="1004" Width="1920" Height="1080" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 6a242d47-6cda-4581-a2d1-7283a1479eeb}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:01:00" Name="MR_S34_CVS_sea_ice" Left="6995" Top="1789" Width="456" Height="251" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="476" ViewportHeight="233" BrowserLeft="0" BrowserTop="0" BrowserWidth="696" BrowserHeight="233" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 7f62791c-a0ae-4eda-a591-a9e373119eea}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:01:00" Name="MR_S34_60sec" Left="5356" Top="176" Width="2300" Height="1220" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionOut="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionIn>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionIn>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference fc1fb60f-ee69-4ae6-8f81-fe5e2d4446ac}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <MediaZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:00" Name="MR_S12_60sec" Left="5356" Top="175" Width="2302" Height="1207" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" Repeat="True" Volume="50" Balance="0" IsMuted="False" VideoSyncID="0" UseVideoSync="False" MediaRenderer="Default" MediaPlayerType="VLC" Play="play" PlayBackStep="0" SelectedMediaType="File" ShowMediaControls="False" ShowMediaCaptions="False" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 869706a2-fc61-4d2c-8ccb-3678e6f90e14}" DesignMode="False" />
+          </Source>
+          <StreamMediaPackageType>
+            <StreamMediaPackageType PackageId="cdaa0eb4-222d-414b-accf-f2f18bd73395" StreamType="MPEG-DASH" />
+          </StreamMediaPackageType>
+        </MediaZone>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:01:00" Duration="00:01:00" Name="Mask_S2" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 1e08b17c-3908-47a6-aace-86f911a6457c}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <ImageZone AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:01:00" Name="Mask_S1_Global_Temp" Left="0" Top="0" Width="7680" Height="2160" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" UseKenBurnEffect="False" KenBurnEffectZoom="Random" IncludeSubfolders="True" ContentDuration="00:00:10" RepeatBehavior="Forever" SortingMethod="Alphabetic" DataConverter="" Stretch="Proportional" IsLogging="False" ContentTransition="">
+          <TransitionOut>
+            <EffectTransition Duration="00:00:01">
+              <Effect>
+                <FadeTransitionEffect />
+              </Effect>
+            </EffectTransition>
+          </TransitionOut>
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 04595bbc-ea68-460d-a7f4-0307a9615fca}" DesignMode="False" />
+          </Source>
+        </ImageZone>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:02:00" Name="CVS" Left="2069" Top="1842" Width="3257" Height="290" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="None" ViewportLeft="0" ViewportTop="0" ViewportWidth="3342" ViewportHeight="284" BrowserLeft="0" BrowserTop="0" BrowserWidth="3744" BrowserHeight="450" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 151c7cb3-7819-46bf-91d2-5d992c3c9578}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+        <WebZoneModern AdornerAngleProperty="0" OpacityBrush="" RotationAngle="0" IsLocked="False" Visible="True" ZoneEffect="" Background="#00FFFFFF" BeginTime="00:00:00" Duration="00:02:00" Name="Date-Time - Copy" Left="0" Top="0" Width="1918" Height="250" Transparency="0" Reflection="False" ReflectionTransparency="50" ReflectionHeight="100" ReflectionDistance="0" TransitionIn="" TransitionOut="" RefreshTime="00:00:00" Stretch="Proportional" ViewportLeft="0" ViewportTop="0" ViewportWidth="1910" ViewportHeight="250" BrowserLeft="0" BrowserTop="0" BrowserWidth="1910" BrowserHeight="250" ShowScrollbars="False" JsVariables="" WebRenderer="ChromiumWithWpfFeatures">
+          <Source>
+            <StaticMediaSelector DataReference="{Reference 103cdb01-cf97-4dc4-9228-a1eeca7569e2}" DesignMode="False" />
+          </Source>
+        </WebZoneModern>
+      </Children>
+    </ContainerZone>
+  </Content>
+  <References>
+    <Include Key="{869706a2-fc61-4d2c-8ccb-3678e6f90e14}" Source="Data Server">
+      <BackboneDataPointer Guid="d90a2272-6b42-4e4c-a1fd-0d1d396ecba3" Name="D003_CVS_stage12_mainright_1_Svs5099PolarSeaIce_en_4096x2048.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{151c7cb3-7819-46bf-91d2-5d992c3c9578}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/climate-vital-signs/index.html?layout=0123456" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/climate-vital-signs/index.html?layout=0123456" Type="Item" />
+    </Include>
+    <Include Key="{fc1fb60f-ee69-4ae6-8f81-fe5e2d4446ac}" Source="Data Server">
+      <BackboneDataPointer Guid="f8d71ae4-0542-435b-8593-686ef676df5b" Name="D003_CVS_stage34_mainright_1_Svs5030ArcticIceMinimum_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{427c9e6e-ae6e-4476-bdcb-70ecdba5e97c}" Source="Data Server">
+      <BackboneDataPointer Guid="edf80dc9-58b8-4dee-874b-2edf1e85378e" Name="D003_CVS_stage2_mainleft_1_Svs5024AirSco2KeelingCurve_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{ced363a9-95fa-4051-9920-3319d9f0bb71}" Source="Data Server">
+      <BackboneDataPointer Guid="4ce3929d-3c6e-44bc-b5d5-3df95309b49f" Name="D003_CVS_stage3_maincenter_1_Svs5041GlobalTemperatureAnomaly_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{16239c31-8198-46ce-8965-a9d669ac2c60}" Source="Data Server">
+      <BackboneDataPointer Guid="fdd24b7a-9802-4c63-b5b6-cbc1d0497165" Name="D003_CVS_stage4_maincenter_3_SeaLevelWaveTank_en_2160x2160.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{4ba7527a-aaf9-43e7-97af-ea5742c1408c}" Source="Data Server">
+      <BackboneDataPointer Guid="7344bc99-1267-408e-8db5-ec6487875fd8" Name="D003_CVS_stage4_mainleft_1_Svs5117N2oTrends_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{7f62791c-a0ae-4eda-a591-a9e373119eea}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/climate-vital-signs/index.html?filter=arctic_sea_ice_minimum_extent&amp;show_title=false" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/climate-vital-signs/index.html?filter=arctic_sea_ice_minimum_extent&amp;show_title=false" Type="Item" />
+    </Include>
+    <Include Key="{103cdb01-cf97-4dc4-9228-a1eeca7569e2}" Source="Internet Source">
+      <InternetPointer Name="https://nasa-eic.s3.amazonaws.com/webapps/widgets/eic-header/index.html" Path="https://nasa-eic.s3.amazonaws.com/webapps/widgets/eic-header/index.html" Type="Item" />
+    </Include>
+    <Include Key="{0a655ec9-68ff-4a6b-a809-43dc46137dd6}" Source="Data Server">
+      <BackboneDataPointer Guid="85a984a2-54f3-4a04-8c3b-78aab33d537e" Name="D003_CVS_stage1_maincenter_1_SvsCurrentGisTempMap_en_3840x2160.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{04595bbc-ea68-460d-a7f4-0307a9615fca}" Source="Data Server">
+      <BackboneDataPointer Guid="2b739e5d-d696-46d4-a2bf-d514fb05cd15" Name="D003_CVS_stage12_mask_0_GlobalTemperature_en_7680x2160.png" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{6a8c104e-80c1-4610-86ec-225503ce4d88}" Source="Data Server">
+      <BackboneDataPointer Guid="5f07727a-ae73-48bf-9e2e-d004951258dc" Name="D000_Common_stage0_any_0_Svs5190TemperatureSpiral_en_2160x2160.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D000_CommonContent" Type="Item" />
+    </Include>
+    <Include Key="{cbaa41be-50c2-4a88-80dc-5096026efbd3}" Source="Data Server">
+      <BackboneDataPointer Guid="9730e981-0c05-4ba7-8a30-32d24a40e110" Name="D003_CVS_stage3_mainleft_1_Svs5118Ch4Trends_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{6a242d47-6cda-4581-a2d1-7283a1479eeb}" Source="Data Server">
+      <BackboneDataPointer Guid="7450a580-1493-4ea2-9b65-4d6cd19ec09e" Name="D003_CVS_stage1_mainleft_1_Svs5119KeelingCurve_en_1920x1080.mp4" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+    <Include Key="{1e08b17c-3908-47a6-aace-86f911a6457c}" Source="Data Server">
+      <BackboneDataPointer Guid="34700411-d1d2-43ed-bec6-5a422b0fadd6" Name="D003_CVS_stage34_mask_0_GlobalSeaLevel_en_7680x2160.png" Path="||Data|Workspaces|Workspace 1|Draft|Files|Dashboards|D003_CVS" Type="Item" />
+    </Include>
+  </References>
+</Layout>
